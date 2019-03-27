@@ -1,7 +1,7 @@
 # Dvelopment, Design, Research - BPA 
 ## Background
 
-The [Technology Transformation Services](https://www.gsa.gov/portal/category/25729)(TTS) organization applies modern methodologies and technologies to improve the public’s experience with government by helping agencies make their services more accessible, efficient, and effective, and by itself providing services that exemplify these values. We build, provide, and share technology applications, platforms, processes, personnel, and software solutions to federal agencies in an effort to help them better serve the public.
+The [Technology Transformation Services](https://www.gsa.gov/portal/category/25729) (TTS) organization applies modern methodologies and technologies to improve the public’s experience with government by helping agencies make their services more accessible, efficient, and effective, and by itself providing services that exemplify these values. We build, provide, and share technology applications, platforms, processes, personnel, and software solutions to federal agencies in an effort to help them better serve the public.
 
 
 ### What we're hoping to end up with
