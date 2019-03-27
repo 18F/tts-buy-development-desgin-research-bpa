@@ -1,8 +1,7 @@
-**General Services Administration**
+# **General Services Administration**
 
 Federal Acquisition Service  
 Technology Transformation Services
-
 1800 F St NW | Washington, DC | 20405
 
 TTS BPA for Software Development, Design, and Research
@@ -56,44 +55,44 @@ relevant federal legislation in effect as of the date of award.
 
 The Contractor will provide the following services:
 
-  - > Contractor must develop web-based interactive systems using agile
-    > principles.
+  - Contractor must develop web-based interactive systems using agile
+    principles.
 
-  - > Contractor must conduct research activities using modern
-    > [<span class="underline">methodologies</span>](https://methods.18f.gov/),
-    > including stakeholder interviews and usability tests. Contractor
-    > shall create and deliver records and notes collected during their
-    > research.
+  - Contractor must conduct research activities using modern
+    [<span class="underline">methodologies</span>](https://methods.18f.gov/),
+    including stakeholder interviews and usability tests. Contractor
+    shall create and deliver records and notes collected during their
+    research.
 
-  - > Contractor must work with TTS to ensure that the system is
-    > compliant with security policies.
+  - Contractor must work with TTS to ensure that the system is
+    compliant with security policies.
 
-  - > Contractor must ensure that the system includes user
-    > authentication and authorization functionality that uses open
-    > source encryption protocols.
+  - Contractor must ensure that the system includes user
+    authentication and authorization functionality that uses open
+    source encryption protocols.
 
-  - > Contractor must post all code to a publicly-available code
-    > repository, with a Public Domain license.
+  - Contractor must post all code to a publicly-available code
+    repository, with a Public Domain license.
 
-  - > Contractor must ensure that the architecture is extensible to
-    > allow for further development, including integration with
-    > compatible internal or external systems (for example, integration
-    > with an instance of ServiceNow or Salesforce via an API).
+  - Contractor must ensure that the architecture is extensible to
+    allow for further development, including integration with
+    compatible internal or external systems (for example, integration
+    with an instance of ServiceNow or Salesforce via an API).
 
-  - > Contractor must incorporate analytics, monitoring, continuous
-    > integration, and measurement tools into their code base.
+  - Contractor must incorporate analytics, monitoring, continuous
+    integration, and measurement tools into their code base.
 
-  - > Contractor must use [<span class="underline">plain
-    > language</span>](https://www.plainlanguage.gov/) in application
-    > design and development whenever possible. In the event that TTS
-    > does not provide the Contractor with content-specific guidance or
-    > grammatical rules for the cloud marketplace tool, Contractor
-    > should adhere to [<span class="underline">18F’s content
-    > guide</span>](https://content-guide.18f.gov/).
+  - Contractor must use [<span class="underline">plain
+    language</span>](https://www.plainlanguage.gov/) in application
+    design and development whenever possible. In the event that TTS
+    does not provide the Contractor with content-specific guidance or
+    grammatical rules for the cloud marketplace tool, Contractor
+    should adhere to [<span class="underline">18F’s content
+    guide</span>](https://content-guide.18f.gov/).
 
-  - > Contractor must utilize the [<span class="underline">U.S. Web
-    > Design System</span>](https://standards.usa.gov/) or other
-    > development standards as developed by the 18F team.
+  - Contractor must utilize the [<span class="underline">U.S. Web
+    Design System</span>](https://standards.usa.gov/) or other
+    development standards as developed by the 18F team.
 
 # 4.0 Services and Pricing
 
@@ -164,7 +163,7 @@ level.
 </tr>
 <tr class="even">
 <td>0008</td>
-<td><h1 id="content-designer">Content Designer</h1></td>
+<td>Content Designer</h1></td>
 <td>HR</td>
 <td>$</td>
 </tr>
@@ -201,32 +200,32 @@ multi-disciplinary team and working within agile methodologies.
 
 Responsibilities include but not limited too:
 
-  - > Lead one or more multi-disciplinary agile delivery teams to
-    > deliver excellent new products and/or iterations to existing
-    > products to meet user needs
+  - Lead one or more multi-disciplinary agile delivery teams to
+    deliver excellent new products and/or iterations to existing
+    products to meet user needs
 
-  - > Gather user needs based on a communicable understanding of diverse
-    > audience groups
+  - Gather user needs based on a communicable understanding of diverse
+    audience groups
 
-  - > Define and get stakeholder buy-in for product definition and
-    > delivery approach
+  - Define and get stakeholder buy-in for product definition and
+    delivery approach
 
-  - > Create effective, prioritized product descriptions and delivery
-    > plans to meet user needs in a cost-effective way
+  - Create effective, prioritized product descriptions and delivery
+    plans to meet user needs in a cost-effective way
 
-  - > Interpret user research in order to make product decisions
+  - Interpret user research in order to make product decisions
 
-  - > Keep abreast of changes to user habits, preferences, and behaviors
-    > across various digital platforms and their implications for
-    > successful delivery of digital services
+  - Keep abreast of changes to user habits, preferences, and behaviors
+    across various digital platforms and their implications for
+    successful delivery of digital services
 
-  - > Ensure iterative delivery of digital services through effective
-    > analysis of qualitative and quantitative user data
+  - Ensure iterative delivery of digital services through effective
+    analysis of qualitative and quantitative user data
 
-  - > Communicate credibly with a wide range of digital delivery
-    > disciplines, expertise and talent
+  - Communicate credibly with a wide range of digital delivery
+    disciplines, expertise and talent
 
-  - > Clearly communicates and works with stakeholders at every level
+  - Clearly communicates and works with stakeholders at every level
 
 ### **CLIN 0002 Project Manager**
 
@@ -237,39 +236,39 @@ multi-disciplinary team and working within agile methodologies.
 
 Responsibilities include but not limited too:
 
-  - > Coordinate internal team members as well as third parties/vendors
-    > for successful execution of projects
+  - Coordinate internal team members as well as third parties/vendors
+    for successful execution of projects
 
 <!-- end list -->
 
-  - > Ensure that all projects are delivered on-time, within scope, and
-    > within budget
+  - Ensure that all projects are delivered on-time, within scope, and
+    within budget
 
-  - > Assist in the definition of project scope and objectives,
-    > involving all relevant stakeholders and ensuring technical
-    > feasibility
+  - Assist in the definition of project scope and objectives,
+    involving all relevant stakeholders and ensuring technical
+    feasibility
 
-  - > Ensure resource availability and allocation
+  - Ensure resource availability and allocation
 
-  - > Manage changes to the project scope, project schedule, and project
-    > costs using appropriate verification techniques
+  - Manage changes to the project scope, project schedule, and project
+    costs using appropriate verification techniques
 
-  - > Measure project performance using appropriate tools and techniques
+  - Measure project performance using appropriate tools and techniques
 
-  - > Perform risk management to minimize project risks
+  - Perform risk management to minimize project risks
 
-  - > Track project performance, specifically to analyze the successful
-    > completion of short and long-term goals
+  - Track project performance, specifically to analyze the successful
+    completion of short and long-term goals
 
-  - > Meet budgetary objectives and make adjustments to project
-    > constraints based on financial analysis
+  - Meet budgetary objectives and make adjustments to project
+    constraints based on financial analysis
 
 <!-- end list -->
 
-  - > Communicate credibly with a wide range of digital delivery
-    > disciplines, expertise and talent
+  - Communicate credibly with a wide range of digital delivery
+    disciplines, expertise and talent
 
-  - > Clearly communicates and works with stakeholders at every level
+  - Clearly communicates and works with stakeholders at every level
 
 ### **CLIN 0003 Technical Lead**
 
@@ -283,37 +282,35 @@ multi-disciplinary team and working within agile methodologies.
 
 Responsibilities include but not limited too:
 
-  - > Architect the overall system using prototyping and proof of
-    > concepts, which may include:
+  - Architect the overall system using prototyping and proof of
+    concepts, which may include:
     
-      - > Modern programming languages (e.g., Ruby, Python, Node.js) and
-        > web frameworks (e.g., Django, Rails)
+  - Modern programming languages (e.g., Ruby, Python, Node.js) and
+    web frameworks (e.g., Django, Rails)
     
-      - > Modern front-end web programming techniques (e.g., HTML5,
-        > CSS3, RESTful APIs) and frameworks (e.g., Twitter Bootstrap,
-        > jQuery)
+  - Modern front-end web programming techniques (e.g., HTML5,
+    CSS3, RESTful APIs) and frameworks (e.g., Twitter Bootstrap,jQuery)
     
-      - > Relational databases (e.g., PostgreSQL), and “NoSQL” databases
-        > (e.g., Cassandra, MongoDB)
+  - Relational databases (e.g., PostgreSQL), and “NoSQL” databases
+    (e.g., Cassandra, MongoDB)
     
-      - > Automated configuration management (e.g., Chef, Puppet,
-        > Ansible, Salt), continuous integration/deployment, and
-        > continuous monitoring solutions
+  - Automated configuration management (e.g., Chef, Puppet Ansible, Salt), continuous integration/deployment, and
+    continuous monitoring solutions
 
-  - > Use version control systems, specifically Git and GitHub
+  - Use version control systems, specifically Git and GitHub
 
-  - > Maintain strategic alignment of technical design and architecture
-    > to meet business growth and direction, and stay on top of emerging
-    > technologies
+  - Maintain strategic alignment of technical design and architecture
+    to meet business growth and direction, and stay on top of emerging
+    technologies
 
-  - > Develop product roadmaps, backlogs, and measurable success
-    > criteria, and writing meaningful user stories to ensure effective
-    > product delivery
+  - Develop product roadmaps, backlogs, and measurable success
+    criteria, and writing meaningful user stories to ensure effective
+    product delivery
 
-  - > Communicate credibly with a wide range of digital delivery
-    > disciplines and talent
+  - Communicate credibly with a wide range of digital delivery
+    disciplines and talent
 
-  - > Clearly communicates and works with stakeholders at every level
+  - Clearly communicates and works with stakeholders at every level
 
 ### **CLIN 0004 User Experience Researcher / Designer**
 
@@ -329,38 +326,38 @@ delight agency partners and the public.
 
 Responsibilities include but not limited too:
 
-  - > Research user needs as well as potential system enhancements
+  - Research user needs as well as potential system enhancements
 
-  - > Develop comprehensive research plans with an understanding of how
-    > disparate systems function and change over time with multiple user
-    > groups (for example: end-user, administrators, third-parties)
+  - Develop comprehensive research plans with an understanding of how
+    disparate systems function and change over time with multiple user
+    groups (for example: end-user, administrators, third-parties)
 
-  - > Conduct stakeholder interviews, user needs analysis, task
-    > analysis, conceptual modeling, information architecture,
-    > interaction design, and usability testing
+  - Conduct stakeholder interviews, user needs analysis, task
+    analysis, conceptual modeling, information architecture,
+    interaction design, and usability testing
 
-  - > Lead and participate in participatory and iterative design
-    > activities, including observational studies, customer interviews,
-    > and usability testing
+  - Lead and participate in participatory and iterative design
+    activities, including observational studies, customer interviews,
+    and usability testing
 
-  - > Produce user needs specifications & experience goals, personas,
-    > storyboards, scenarios, flowcharts, design prototypes, and design
-    > specifications
+  - Produce user needs specifications & experience goals, personas,
+    storyboards, scenarios, flowcharts, design prototypes, and design
+    specifications
 
-  - > Plan and facilitate collaborative critiques and analysis &
-    > synthesis working sessions
+  - Plan and facilitate collaborative critiques and analysis &
+    synthesis working sessions
 
-  - > Effectively communicate research findings, conceptual ideas,
-    > detailed design, and design rationale and goals both verbally and
-    > visually
+  - Effectively communicate research findings, conceptual ideas,
+    detailed design, and design rationale and goals both verbally and
+    visually
 
-  - > Design new interfaces with low and high fidelity mockups using
-    > methods like sketching, wireframing, and/or prototyping
+  - Design new interfaces with low and high fidelity mockups using
+    methods like sketching, wireframing, and/or prototyping
 
-  - > Communicate credibly with a wide range of digital delivery
-    > disciplines and talent
+  - Communicate credibly with a wide range of digital delivery
+    disciplines and talent
 
-  - > Clearly communicates and works with stakeholders at every level
+  - Clearly communicates and works with stakeholders at every level
 
 ### **CLIN 0005 Front-end Engineer**
 
@@ -371,36 +368,36 @@ changes.
 
 Responsibilities include but not limited too:
 
-  - > Practice front-end web development using modern techniques and
-    > frameworks (e.g., HTML5, CSS3, CSS frameworks like LESS and SASS,
-    > Responsive Design, Bourbon, Twitter Bootstrap)
+  - Practice front-end web development using modern techniques and
+    frameworks (e.g., HTML5, CSS3, CSS frameworks like LESS and SASS,
+    Responsive Design, Bourbon, Twitter Bootstrap)
 
-  - > Practice JavaScript development using modern standards, including
-    > strict mode compliance, modularization techniques and tools, and
-    > frameworks and libraries (e.g., jQuery, MV\* frameworks such as
-    > Backbone.js and Ember.js, D3, Angular, React)
+  - Practice JavaScript development using modern standards, including
+    strict mode compliance, modularization techniques and tools, and
+    frameworks and libraries (e.g., jQuery, MV\* frameworks such as
+    Backbone.js and Ember.js, D3, Angular, React)
 
-  - > Work in team environments that use agile methodologies (e.g.,
-    > Scrum, Lean)
+  - Work in team environments that use agile methodologies (e.g.,
+    Scrum, Lean)
 
-  - > Use version control systems, specifically Git and GitHub
+  - Use version control systems, specifically Git and GitHub
 
-  - > Ensure Section 508 Compliance
+  - Ensure Section 508 Compliance
 
-  - > Research and learn new programming tools and techniques as
-    > necessary
+  - Research and learn new programming tools and techniques as
+    necessary
 
-  - > Use and work with open source solutions and community
+  - Use and work with open source solutions and community
 
-  - > Create web layouts from static images
+  - Create web layouts from static images
 
-  - > Create views and templates in full-stack frameworks like Rails,
-    > Express, or Django
+  - Create views and templates in full-stack frameworks like Rails,
+    Express, or Django
 
-  - > Work with open source solutions and communities
+  - Work with open source solutions and communities
 
-  - > Communicate technical concepts to a non-technical audience as
-    > necessary
+  - Communicate technical concepts to a non-technical audience as
+    necessary
 
 ### **CLIN 0006 Back-end Engineer** 
 
@@ -412,37 +409,37 @@ changes.
 
 Responsibilities include but not limited too:
 
-  - > Practice web development using open-source web programming
-    > languages (e.g., Ruby, Python) and frameworks (e.g., Django,
-    > Rails)
+  - Practice web development using open-source web programming
+    languages (e.g., Ruby, Python) and frameworks (e.g., Django,
+    Rails)
 
-  - > Develop and consume web-based, RESTful APIs
+  - Develop and consume web-based, RESTful APIs
 
-  - > Work in team environments that use agile methodologies (e.g.,
-    > Scrum, Lean)
+  - Work in team environments that use agile methodologies (e.g.,
+    Scrum, Lean)
 
-  - > Author developer-friendly documentation (e.g., API documentation,
-    > deployment operations)
+  - Author developer-friendly documentation (e.g., API documentation,
+    deployment operations)
 
-  - > Practice test-driven development
+  - Practice test-driven development
 
-  - > Use version control systems, specifically Git and GitHub
+  - Use version control systems, specifically Git and GitHub
 
-  - > Research and learn new programming tools and techniques as
-    > necessary
+  - Research and learn new programming tools and techniques as
+    necessary
 
-  - > Work with both relational and non-relational database systems
+  - Work with both relational and non-relational database systems
 
-  - > Work with scalable search technology (e.g. ElasticSearch, Solr)
+  - Work with scalable search technology (e.g. ElasticSearch, Solr)
 
-  - > Handle large data sets and scaling their handling and storage
+  - Handle large data sets and scaling their handling and storage
 
-  - > Work with open source solutions and communities
+  - Work with open source solutions and communities
 
-  - > Communicate technical concepts to a non-technical audience as
-    > necessary
+  - Communicate technical concepts to a non-technical audience as
+    necessary
 
-### **CLIN 0007 DevOps Engineer **
+### **CLIN 0007 DevOps Engineer**
 
 Experience serving as the engineer of complex technology implementations
 in a product-centric environment. Comfortable with bridging the gap
@@ -452,32 +449,32 @@ to equip developers with the best tools.
 
 Responsibilities include but not limited too:
 
-  - > Deploy and configure services using infrastructure as a service
-    > provider (e.g., Amazon Web Services, Microsoft Azure, Google
-    > Compute Engine, RackSpace/OpenStack)
+  - Deploy and configure services using infrastructure as a service
+    provider (e.g., Amazon Web Services, Microsoft Azure, Google
+    Compute Engine, RackSpace/OpenStack)
 
-  - > Configure and manage Linux-based servers to serve a dynamic
-    > website
+  - Configure and manage Linux-based servers to serve a dynamic
+    website
 
-  - > Debug cluster-based computing architectures
+  - Debug cluster-based computing architectures
 
-  - > Use scripting or basic programming skills to solve problems
+  - Use scripting or basic programming skills to solve problems
 
-  - > Install and manage open source monitoring tools
+  - Install and manage open source monitoring tools
 
-  - > Install and manage configuration management tools (e.g., Puppet,
-    > Chef, Ansible, Salt)
+  - Install and manage configuration management tools (e.g., Puppet,
+    Chef, Ansible, Salt)
 
-  - > Develop architecture for continuous integration and deployment as
-    > well as continuous monitoring
+  - Develop architecture for continuous integration and deployment as
+    well as continuous monitoring
 
-  - > Install and manage containerization technologies (e.g., LXC,
-    > Docker, Rocket)
+  - Install and manage containerization technologies (e.g., LXC,
+    Docker, Rocket)
 
-  - > Work with open source solutions and communities
+  - Work with open source solutions and communities
 
-  - > Communicate technical concepts to a non-technical audience as
-    > necessary
+  - Communicate technical concepts to a non-technical audience as
+    necessary
 
 ### **CLIN 0008 Content Designer**
 
@@ -486,40 +483,40 @@ digital channels.
 
 Responsibilities include but not limited too:
 
-  - > Assign, edit, and produce content for products, services, and
-    > various projects
+  - Assign, edit, and produce content for products, services, and
+    various projects
 
-  - > Develop and maintain appropriate voice for produced content
+  - Develop and maintain appropriate voice for produced content
 
-  - > Advise how to streamline content production and management
-    > solutions and processes based on user research
+  - Advise how to streamline content production and management
+    solutions and processes based on user research
 
-  - > Plan and facilitate content strategy workshops and brainstorming
-    > sessions on developing content and content services, including
-    > API-based content services
+  - Plan and facilitate content strategy workshops and brainstorming
+    sessions on developing content and content services, including
+    API-based content services
 
-  - > Collaborate closely with developers and designers to create, test,
-    > and deploy effective content marketing experiences using agile
-    > methods
+  - Collaborate closely with developers and designers to create, test,
+    and deploy effective content marketing experiences using agile
+    methods
 
-  - > Collaborate with designers and other content strategists to
-    > measure the effectiveness of produced content
+  - Collaborate with designers and other content strategists to
+    measure the effectiveness of produced content
 
-  - > Collaborate with content managers, writers, information
-    > architects, interaction designers, developers, and content
-    > creators of all types
+  - Collaborate with content managers, writers, information
+    architects, interaction designers, developers, and content
+    creators of all types
 
-  - > Offer recommendations on how to deliver a consistent, sustainable
-    > and standards-driven execution of content strategy across
-    > products, services, and projects
+  - Offer recommendations on how to deliver a consistent, sustainable
+    and standards-driven execution of content strategy across
+    products, services, and projects
 
-  - > Define, create, and manage resource plans and other required
-    > project documentation such as style guides and provides updates as
-    > necessary
+  - Define, create, and manage resource plans and other required
+    project documentation such as style guides and provides updates as
+    necessary
 
-  - > Participate as needed on agile software development teams
+  - Participate as needed on agile software development teams
 
-### **CLIN 0009 Visual Designer **
+### **CLIN 0009 Visual Designer**
 
 Experience in all aspects of current visual design standards and trends
 and will be responsible for managing project design reviews, resource
@@ -527,36 +524,36 @@ planning, and execution for all project work related to visual design.
 
 Responsibilities include but not limited too:
 
-  - > Identify user and organizational needs through formal interviews,
-    > informal conversations, contextual inquiry, workshops, and
-    > analytics research
+  - Identify user and organizational needs through formal interviews,
+    informal conversations, contextual inquiry, workshops, and
+    analytics research
 
-  - > Identify visual design opportunities through exercises such as
-    > brand/interface audits, comparative or competitive analyses, gap
-    > analyses, and system mapping
+  - Identify visual design opportunities through exercises such as
+    brand/interface audits, comparative or competitive analyses, gap
+    analyses, and system mapping
 
-  - > Bring stakeholders together around shared design systems and
-    > visual identity goals and priorities
+  - Bring stakeholders together around shared design systems and
+    visual identity goals and priorities
 
-  - > Create clear, inclusive, accessible, and extensible visual styles
-    > and components in a fast-paced, collaborative environment,
-    > including selecting and applying appropriate styles from the [U.S.
-    > Web Design System](https://designsystem.digital.gov/), building
-    > interface patterns, prototypes, landing pages, logo and identity
-    > designs, brand or design principles, pattern libraries, research
-    > findings with visual storytelling, and product launch materials
+  - Create clear, inclusive, accessible, and extensible visual styles
+    and components in a fast-paced, collaborative environment,
+    including selecting and applying appropriate styles from the [U.S.
+    Web Design System](https://designsystem.digital.gov/), building
+    interface patterns, prototypes, landing pages, logo and identity
+    designs, brand or design principles, pattern libraries, research
+    findings with visual storytelling, and product launch materials
 
-  - > Iterate quickly by collaborating on prototypes at various levels
-    > of fidelity
+  - Iterate quickly by collaborating on prototypes at various levels
+    of fidelity
 
-  - > Incorporate continuous feedback from users, peers, and
-    > stakeholders by leading design-focused usability and critique
-    > sessions
+  - Incorporate continuous feedback from users, peers, and
+    stakeholders by leading design-focused usability and critique
+    sessions
 
-  - > Stay up-to-date with design application changes and industry
-    > developments
+  - Stay up-to-date with design application changes and industry
+    developments
 
-  - > Participate as needed on agile software development teams
+  - Participate as needed on agile software development teams
 
 ### **CLIN 0010 Data Scientist**
 
@@ -567,32 +564,32 @@ working in an agile and lean environment to routinely deploy changes.
 
 Responsibilities include but not limited too:
 
-  - > Apply experience in the areas of artificial intelligence (AI),
-    > data science, and general data processing, covering a wide range
-    > of technology and applications, to the delivery of effective
-    > products and services
+  - Apply experience in the areas of artificial intelligence (AI),
+    data science, and general data processing, covering a wide range
+    of technology and applications, to the delivery of effective
+    products and services
 
-  - > Plan and manage the development of advanced software projects
-    > leveraging emerging technologies such as artificial intelligence
-    > (AI)
+  - Plan and manage the development of advanced software projects
+    leveraging emerging technologies such as artificial intelligence
+    (AI)
 
-  - > Use machine learning (ML) and statistical techniques to analyze
-    > and help productize collected data
+  - Use machine learning (ML) and statistical techniques to analyze
+    and help productize collected data
 
-  - > Advise management and partners on new developments and advanced
-    > techniques in the area of data science
+  - Advise management and partners on new developments and advanced
+    techniques in the area of data science
 
-  - > Apply data processing standards and knowledge of technical data to
-    > evaluate alternate approaches to problem solutions
+  - Apply data processing standards and knowledge of technical data to
+    evaluate alternate approaches to problem solutions
 
-  - > Design, develop, implement, and maintain database systems
+  - Design, develop, implement, and maintain database systems
 
-  - > Work with open source solutions and communities
+  - Work with open source solutions and communities
 
-  - > Communicate credibly with a wide range of digital delivery
-    > disciplines and talent
+  - Communicate credibly with a wide range of digital delivery
+    disciplines and talent
 
-  - > Communicate technical concepts to a non-technical audience as
-    > necessary
+  - Communicate technical concepts to a non-technical audience as
+    necessary
 
-  - > Clearly communicates and works with stakeholders at every level
+  - Clearly communicates and works with stakeholders at every level
