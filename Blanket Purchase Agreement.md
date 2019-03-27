@@ -1,12 +1,10 @@
-**General Services Administration**
+# **General Services Administration**
 
 Federal Acquisition Service  
 Technology Transformation Services
-
 1800 F St NW | Washington, DC | 20405
 
 Request for Quotation to Establish a Blanket Purchase Agreement (BPA)
-
 {{Solicitation-Number}}
 
 **From:** Joseph Dorsey, Contracting Officer, General Services
@@ -15,56 +13,16 @@ Transformation Services (TTS), Office of Acquisition (OA)
 **Subject:** Request for Quotation (RFQ) for Blanket Purchase Agreement
 (BPA)
 
-**Issue Date: March 28, 2019**  
-**Response Date: April 11, 2019 5:00 pm EST**
+**Issue:** Date: March 28, 2019  
+**Response Date:** April 11, 2019 5:00 pm EST
 
 **Set Aside:** Small Business Set-Aside
 
-**NAICS Code(s): 541511, 541512, 541513, and 541519**
+**NAICS Code(s):** 541511, 541512, 541513, and 541519
 
 **Contract Vehicle:** GSA Schedule 70 Special Item Number (SIN) 132 51 -
 Information Technology Professional Services and SIN 70-500 - Order
 Level Materials (OLM)
-
-<span class="underline">[1.0](#section) RFQ General Information</span>
-
-<span class="underline">[2.0](#_2s8eyo1) Background</span>
-
-[<span class="underline">3.0 Evaluation</span>](#evaluation)
-
-[<span class="underline">4.0 Solicitation
-Provisions</span>](#solicitation-provisions)
-
-**BPA Terms and Conditions**
-
-[<span class="underline">1.0 General
-Information</span>](#general-information)
-
-<span class="underline">2[.0](#ordering) Ordering</span>
-
-[<span class="underline">3.0 BPA Period of
-Performance</span>](#bpa-period-of-performance)
-
-[<span class="underline">4.0 Location of Work to be
-Performed</span>](#location-of-work-to-be-performed)
-
-<span class="underline">[5.0 Work Schedule](#work-schedule) </span>
-
-[<span class="underline">6.0 Funds Obligation</span>](#funds-obligation)
-
-[<span class="underline">7.0 Type of Contract Line
-Items</span>](#type-of-contract-line-items)
-
-<span class="underline">[8.0 Administration](#administration) </span>
-
-[<span class="underline">9.0 Invoicing</span>](#invoicing)
-
-[<span class="underline">10.0 TTS
-Policy</span>](#tts-transparency-policy)
-
-[<span class="underline">11.0 Clauses</span>](#clauses)
-
-# 
 
 # 1.0 RFQ General Information
 
@@ -146,17 +104,17 @@ are more important than price; as Non-Price ratings become closer, price
 will become more important. Criteria are listed in descending order of
 importance.
 
-  - > Phase 1 – Technical Response
+  - Phase 1 – Technical Response
     
-      - > Criteria 1 - **Relevant Experience**
+      - Criteria 1 - **Relevant Experience**
     
-      - > Criteria 2 - **Staffing Approach**
+      - Criteria 2 - **Staffing Approach**
     
-      - > Criteria 3 - **Usability Research Approach**
+      - Criteria 3 - **Usability Research Approach**
 
-  - > Phase 2 - Oral Interview
+  - Phase 2 - Oral Interview
 
-  - > Phase 3 - Price Response
+  - Phase 3 - Price Response
 
 Quoters must meet all requirements in Phase 1 and will be assigned a
 confidence rating. After the initial Phase 1 confidence assignment,
@@ -201,7 +159,7 @@ RFQ.
 
 ### **3.2.1 Phase 1 - Technical Response**
 
-### As quoters respond to each criteria below, quoters are required to provide how they will meet the objective and tasks identified in the [Performance Work Statement](https://docs.google.com/document/d/11JKKoQPlswp-kJBa_VP0x_RuUCDtYi99UtpbVQSY3r0/edit). 
+### As quoters respond to each criteria below, quoters are required to provide how they will meet the objective and tasks identified in the [Performance Work Statement](https://github.com/18F/tts-buy-development-desgin-research-bpa/blob/master/Performance%20Work%20Statement.md). 
 
 #### Criteria 1 - Relevant Experience 
 
@@ -216,22 +174,16 @@ submit source code examples via GitHub.
 A more favorable evaluation will be provided to the extent of any of the
 following exist:
 
-1)  > The more examples of relevant project submissions w/ source code
-    > (no more than five (5) examples).
+1) The more examples of relevant project submissions w/ source code (no more than five (5) examples).
 
-2)  > The more recent the quoter’s provided source code samples have
-    > been for recent projects involving teams of approximately three
-    > (3) to five (5) Full-Time Equivalent (FTE) personnel
+2) The more recent the quoter’s provided source code samples have been for recent projects involving teams of approximately three (3) to five (5) Full-Time Equivalent (FTE) personnel
 
-3)  > The quality of said services, TTS will observe the revision
-    > history for all files in the source code samples provided.
+3) The quality of said services, TTS will observe the revision history for all files in the source code samples provided.
 
-4)  > The quality of the user research and design-related artifacts that
-    > were associated with the source code samples provided or submitted
-    > separately.
+4) The quality of the user research and design-related artifacts that were associated with the source code samples provided or submitted separately.
 
-\*Note: TTS may also consider information from any other source,
-including Offeror’s prior customers and public websites
+**Note: TTS may also consider information from any other source,
+including Offeror’s prior customers and public websites**
 
 <span class="underline">Submittal Requirements</span>
 
@@ -248,12 +200,9 @@ submitted.
 
 For Source Code submissions, at a minimum Quoters shall submit:
 
-1)  > The references to one or more source code samples, which must be
-    > either links to Git repositories (either credentialed or public);
-    > or
+1)  The references to one or more source code samples, which must be either links to Git repositories (either credentialed or public); or
 
-2)  > Equivalent version-controlled repositories that provides TTS with
-    > the full revision history for all files.
+2) Equivalent version-controlled repositories that provides TTS with the full revision history for all files.
 
 If the relevant projects to source code samples provided do not include
 associated references to user research plans and design artifacts
@@ -276,37 +225,35 @@ to those described in the Performance Work Statement (PWS) and
 demonstrating experience in at least ten (10) of the following
 functional experience areas:
 
-  - > Agile development practices
+  - Agile development practices
 
-  - > Automated (unit/integration/end-to-end) testing
+  - Automated (unit/integration/end-to-end) testing
 
-  - > Continuous Integration and Continuous Deployment
+  - Continuous Integration and Continuous Deployment
 
-  - > Refactoring to minimize technical debt
+  - Refactoring to minimize technical debt
 
-  - > Application Protocol Interface (API) development and documentation
+  - Application Protocol Interface (API) development and documentation
 
-  - > Open-source software development
+  - Open-source software development
 
-  - > Cloud deployment
+  - Cloud deployment
 
-  - > Open-source login/authentication services
+  - Open-source login/authentication services
 
-  - > Product management and strategy
+  - Product management and strategy
 
-  - > Usability research, such as (but not limited to) contextual
-    > inquiry, stakeholder interviews, and usability testing
+  - Usability research, such as (but not limited to) contextual inquiry, stakeholder interviews, and usability testing
 
-  - > User experience design
+  - User experience design
 
-  - > Sketching, wireframing, and/or prototyping, and user-task flow
-    > development
+  - Sketching, wireframing, and/or prototyping, and user-task flow development
 
-  - > Visual design
+  - Visual design
 
-  - > Content design and copywriting
+  - Content design and copywriting
 
-  - > Building and testing public facing sites and tools
+  - Building and testing public facing sites and tools
 
 Based on responses, quoters will be evaluated based on how confident the
 Government is in terms of the quoters experience in similar relevant
@@ -344,36 +291,26 @@ to user research in this environment. To understand how you would
 approach this work, a prompt that reflects the nature of this project
 has been provided below:
 
-> Outline a research plan to understand the user experience of US
-> residents whose home has just been destroyed by a hurricane as they
-> apply for disaster-related government benefits, in order to determine
-> whether or not this experience could be improved through the
-> development of new technology products or services. Take into
-> consideration that these applicants need to communicate with relevant
-> agency staff before, during, and after the submission process, and
-> also need to track the status of their benefit application until its
-> resolution.
+> Outline a research plan to understand the user experience of US residents whose home has just been destroyed by a hurricane as they apply for disaster-related government benefits, in order to determine whether or not this experience could be improved through the development of new technology products or services. Take into consideration that these applicants need to communicate with relevant agency staff before, during, and after the submission process, and also need to track the status of their benefit application until its resolution.
 
 <span class="underline">Submittal Requirements</span>
 
 The offeror shall submit the following:
 
-1.  > An overview of your research process and how it can be connected
-    > with software feature development.
+1.  An overview of your research process and how it can be connected with software feature development.
 
-2.  > A research hypothesis statement related to the prompt.
+2.  A research hypothesis statement related to the prompt.
 
-3.  > A brief plan that identifies all proposed methods of user
-    > research.
+3.  A brief plan that identifies all proposed methods of user research.
 
-4.  > A brief plan to recruit a diverse set of users.
+4.  A brief plan to recruit a diverse set of users.
 
 The response must be limited to 750 characters (please note that Google
 Forms considers punctuation e.g., commas, semi-colons, quotation marks,
 etc.). Quoters will be evaluated based on the Government’s confidence
 relative to the submissions received for this criteria.
 
-3.2.2 Phase 2 - Oral Interview
+### 3.2.2 Phase 2 - Oral Interview
 
 The oral interview associated with this RFQ does not and will not
 constitute discussions or negotiations as defined in FAR part 15. TTS
@@ -443,7 +380,7 @@ participants to the meeting organizers to the Contracting Officer.
 **Once oral interviews are complete, each quoter will be assigned a
 confidence rating as described above.**
 
-3.2.3 Phase 3 - Price Response
+### 3.2.3 Phase 3 - Price Response
 
 Quoters shall submit a price quote, utilizing the RFQ Pricing Sheet
 contained in \[[<span class="underline">Pricing
@@ -456,15 +393,15 @@ price is realistic, reasonable, and fair. For award purposes, TTS will
 evaluate the price quote by reviewing labor categories. The quoter shall
 submit the following items for all services quoted:
 
-  - > Labor Categories
+  - Labor Categories
 
-  - > Labor Hours
+  - Labor Hours
 
-  - > GSA Schedule Hourly Rates
+  - GSA Schedule Hourly Rates
 
-  - > Discounted Rate, if any
+  - Discounted Rate, if any
 
-**\*Note**: Quoters must complete all Tabs in the pricing sheet. **Tab 6
+**Note**: Quoters must complete all Tabs in the pricing sheet. **Tab 6
 labeled “Example Pricing”** must be completed so TTS can get a general
 idea of what quoters pricing looks like. This Tab will be utilized for
 evaluation purposes only with the intent of comparing quoter prices
@@ -486,9 +423,9 @@ responsible in ensuring their CTA partner fully understands the terms
 and conditions of the BPA and the reporting requirements required by the
 CTA partner. **
 
-**\*Note: Subsidiary, parent of affiliate companies performing work on
+**Note: Subsidiary, parent of affiliate companies performing work on
 this requirement terms and pricing must adhere to the prime contractor’s
-or CTA schedule contract(s). **
+or CTA schedule contract(s).**
 
 ## 3.3 Submissions Instructions
 
@@ -533,7 +470,7 @@ electronically at this/these address(es):
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-BPA Terms and Conditions
+**BPA Terms and Conditions**
 
 # 1.0 General Information
 
@@ -592,46 +529,46 @@ Unless otherwise agreed to, all deliveries under this BPA must be
 accompanied by delivery tickets that must contain the following
 information as a minimum:
 
-1)  > Name of Contractor;
+1)  Name of Contractor;
 
-2)  > Contract Number;
+2)  Contract Number;
 
-3)  > BPA Number;
+3)  BPA Number;
 
-4)  > Call Order Number;
+4)  Call Order Number;
 
-5)  > Date of Purchase;
+5)  Date of Purchase;
 
-6)  > Quantity, Unit Price, Labor Hours, Labor Categories, and Extension
-    > Price of Each Item or Labor Mix (unit prices and extensions need
-    > not be shown when incompatible with the use of automated systems;
-    > provided, that the invoice is itemized to show the information)
+6)  Quantity, Unit Price, Labor Hours, Labor Categories, and Extension
+    Price of Each Item or Labor Mix (unit prices and extensions need
+    not be shown when incompatible with the use of automated systems;
+    provided, that the invoice is itemized to show the information)
 
-7)  > Delivery Time Frame
+7)  Delivery Time Frame
 
 ## 2.6 Discounts
 
 When ordering against the BPA, GSA TTS will:
 
-  - > Request spot discounts
+  - Request spot discounts
 
-  - > Seek additional price reductions and concessions
+  - Seek additional price reductions and concessions
 
-  - > Continue to monitor the commercial market and the quoter’s
-    > Schedule to ensure this BPA honors the best available price (i.e.
-    > similar or better discounts or prices that the quoter is otherwise
-    > providing to as its most favoring pricing)
+  - Continue to monitor the commercial market and the quoter’s
+    Schedule to ensure this BPA honors the best available price (i.e.
+    similar or better discounts or prices that the quoter is otherwise
+    providing to as its most favoring pricing)
 
-  - > At the BPA annual review, request additional price reductions when
-    > estimated quantities/amounts under the BPA have been exceeded
-    > (8.405-3(e)(1)(iii) or as needed.
+  - At the BPA annual review, request additional price reductions when
+    >estimated quantities/amounts under the BPA have been exceeded
+    8.405-3(e)(1)(iii) or as needed.
 
 Discounting to the federal government does not invoke the Price
 Reduction Clause contained in the Schedule contract. The products and
 services available under this BPA, including applicable discounts, shall
 be delineated on attached pricing submission sheet
 [<span class="underline">Pricing
-Template</span>](https://docs.google.com/spreadsheets/d/1di6d-M34Dx79XXAsPZawYw-VwnXaIByHOQv_NyS9144/edit#gid=595673688).
+Template</span>](https://github.com/18F/tts-buy-development-desgin-research-bpa/blob/master/Attachment%20B%20-%20Price%20Sheet%20-%20TTS%20BPA%20for%20Dev%2C%20Design%2C%20and%20Research.xlsx).
 
 ## 2.7 Estimated Quantities - Funded Call Orders
 
@@ -743,9 +680,9 @@ order level.
 Call orders issued under this BPA may include the following line item
 types:
 
-  - > Firm-Fixed Price; or
+  - Firm-Fixed Price; or
 
-  - > Time and Materials (T\&M) / Labor Hour (LH)
+  - Time and Materials (T\&M) / Labor Hour (LH)
 
 ## 7.1 Limitation of Funds (Order Level)
 
@@ -779,12 +716,11 @@ specified.
 This acquisition will be administered by the following individuals, who
 will also monitor quoter performance:
 
-1.  > GSA TTS Contracting Officer: Joe Dorsey
+1.  GSA TTS Contracting Officer: Joe Dorsey
 
-2.  > GSA TTS Contracting Officer Representative: Will be provided at
-    > time of award
+2.  GSA TTS Contracting Officer Representative: Will be provided at time of award
 
-3.  > GSA Technical Point of Contact: Will be provided at time of award
+3.  GSA Technical Point of Contact: Will be provided at time of award
 
 If a change occurs to either the CO or COR, the government will notify
 the quoter. Specifically for the COR, the quoter will receive a copy of
@@ -813,33 +749,33 @@ appointment.
 **8.3.3** The COR is not authorized to perform, formally or informally,
 any of the following actions:
 
-1)  > Promise, award, agree to award, or execute any agreement,
-    > modification, or notice of intent that changes or may change this
-    > contract;
+1)  Promise, award, agree to award, or execute any agreement,
+    modification, or notice of intent that changes or may change this
+    contract;
 
-2)  > Waive or agree to modification of the delivery schedule;
+2)  Waive or agree to modification of the delivery schedule;
 
-3)  > Make any final decision on any contract matters subject to the
-    > disputes Clause;
+3)  Make any final decision on any contract matters subject to the
+    disputes Clause;
 
-4)  > Terminate, for any reason, the Contractor's right to proceed;
+4)  Terminate, for any reason, the Contractor's right to proceed;
 
-5)  > Obligate in any way, the payment of money by the Government
+5)  Obligate in any way, the payment of money by the Government
 
-6)  > The Contractor shall comply with the written or oral direction of
-    > the Contracting Officer or authorized representative(s) acting
-    > within the scope and authority of the appointment memorandum. The
-    > Contractor need not proceed with direction that it considers to
-    > have been issued without proper authority. The Contractor shall
-    > notify the Contracting Officer in writing, with as much detail as
-    > possible, when the COR has taken an action or has issued direction
-    > (written or oral) that the Contractor considers to exceed the
-    > COR’s appointment, within 3 days of the occurrence. Unless
-    > otherwise provided in this agreement, the Contractor assumes all
-    > costs, risks, liabilities, and consequences of performing any work
-    > it is directed to perform that falls within any of the categories
-    > defined in paragraph 8.2.3. prior to receipt of the Contracting
-    > Officer’s response issued under paragraph 8.2.4 of this clause.
+6)  The Contractor shall comply with the written or oral direction of
+    the Contracting Officer or authorized representative(s) acting
+    within the scope and authority of the appointment memorandum. The
+    Contractor need not proceed with direction that it considers to
+    have been issued without proper authority. The Contractor shall
+    notify the Contracting Officer in writing, with as much detail as
+    possible, when the COR has taken an action or has issued direction
+    (written or oral) that the Contractor considers to exceed the
+    COR’s appointment, within 3 days of the occurrence. Unless
+    otherwise provided in this agreement, the Contractor assumes all
+    costs, risks, liabilities, and consequences of performing any work
+    it is directed to perform that falls within any of the categories
+    defined in paragraph 8.2.3. prior to receipt of the Contracting
+    Officer’s response issued under paragraph 8.2.4 of this clause.
 
 **8.3.4** The Contracting Officer shall respond in writing within 30
 days to any notice made under paragraph 8.2.3 of this clause. A failure
@@ -1015,26 +951,26 @@ uploaded to the ITSS with the submission of a final invoice.
 In addition to the items below, the Contractor shall submit proper
 invoices as specified in FAR 52.212-4(g):
 
-  - > GSA Call Order Number
+  - GSA Call Order Number
 
-  - > Call Order ACT Number
+  - Call Order ACT Number
 
-  - > QP Number (funding document number)
+  - QP Number (funding document number)
 
-  - > Prompt Payment Discount
+  - Prompt Payment Discount
 
-  - > Remittance Address
+  - Remittance Address
 
-  - > POP for Billing Period
+  - POP for Billing Period
 
-  - > POC and Phone Number
+  - POC and Phone Number
 
-  - > Invoice Amount
+  - Invoice Amount
 
-  - > Invoice Marked as ‘Final’
+  - Invoice Marked as ‘Final’
 
-  - > Name of Product, Quantity of Product, and Part Number of Product
-    > Matching award documents.
+  - Name of Product, Quantity of Product, and Part Number of Product
+    Matching award documents.
 
 All of this information, along with the Period of Performance covered by
 the invoice, must be included on each invoice in addition to the
@@ -1192,14 +1128,16 @@ Deviation Feb 2018)**
 **GSAR clause 552.238-82, Special Ordering Procedures for the
 Acquisition of Order-Level Materials**
 
-**FAR 52.232-18 Availability of Funds (APR 1984)  
-**Funds are not presently available for this contract. The Government’s
+**FAR 52.232-18 Availability of Funds (APR 1984)**  
+Funds are not presently available for this contract. The Government’s
 obligation under this contract is contingent upon the availability of
 appropriated funds from which payment for contract purposes can be made.
 No legal liability on the part of the Government for any payment may
 arise until funds are made available to the Contracting Officer for this
 contract and until the Contractor receives notice of such availability,
 to be confirmed in writing by the Contracting Officer.
+
+**(End of clause)**
 
 **FAR 52.217-8 - Option to Extend Services (Nov 1999)**
 
