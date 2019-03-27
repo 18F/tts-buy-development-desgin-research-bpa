@@ -64,17 +64,17 @@ shall take precedence.
 ## 1.1 Attachments 
 
 1)  > [<span class="underline">Performance Work
-    > Statement</span>](https://docs.google.com/document/d/11JKKoQPlswp-kJBa_VP0x_RuUCDtYi99UtpbVQSY3r0/edit#)
+    > Statement</span>](https://github.com/18F/tts-buy-development-desgin-research-bpa/blob/master/Performance%20Work%20Statement.md)
 
 2)  > [<span class="underline">Quality Assurance Surveillance
-    > Plan</span>](https://docs.google.com/document/d/1z_2v5LqmtOKxmyeuxvXzckLPrbNwWarBnPMGUe6gAAk/edit)
+    > Plan</span>](https://github.com/18F/tts-buy-development-desgin-research-bpa/blob/master/Quality%20Assurance%20Surveillance%20Plan.md)
 
-3)  > [<span class="underline">RFQ Submission Form - 10x Development
+3)  > [<span class="underline">RFQ Submission Form - TTS Development
     > Support
     > Services</span>](https://docs.google.com/forms/d/1sGieayIyB6qr3iilCqm_zkCmv2J-ST7IyMDAasl5lEc/edit)
 
 4)  > [<span class="underline">Pricing
-    > Template</span>](https://docs.google.com/spreadsheets/d/1di6d-M34Dx79XXAsPZawYw-VwnXaIByHOQv_NyS9144/edit#gid=2048235537)
+    > Template</span>](https://github.com/18F/tts-buy-development-desgin-research-bpa/blob/master/Attachment%20B%20-%20Price%20Sheet%20-%20TTS%20BPA%20for%20Dev%2C%20Design%2C%20and%20Research.xlsx)
 
 # 2.0 Background
 
