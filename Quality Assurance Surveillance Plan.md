@@ -1,4 +1,4 @@
-# **General Services Administration**
+ **General Services Administration**
 
 Federal Acquisition Service  
 Technology Transformation Services
@@ -6,7 +6,7 @@ Technology Transformation Services
 
 TTS BPA for Software Development, Design, and Research
 
-**Quality Assurance Surveillance Plan**
+# **Quality Assurance Surveillance Plan**
 
 #   
 Introduction
