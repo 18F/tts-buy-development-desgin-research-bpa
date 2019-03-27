@@ -63,18 +63,14 @@ shall take precedence.
 
 ## 1.1 Attachments 
 
-1)  > [<span class="underline">Performance Work
-    > Statement</span>](https://github.com/18F/tts-buy-development-desgin-research-bpa/blob/master/Performance%20Work%20Statement.md)
+1)  [<span class="underline">Performance Work Statement</span>](https://github.com/18F/tts-buy-development-desgin-research-bpa/blob/master/Performance%20Work%20Statement.md)
 
-2)  > [<span class="underline">Quality Assurance Surveillance
-    > Plan</span>](https://github.com/18F/tts-buy-development-desgin-research-bpa/blob/master/Quality%20Assurance%20Surveillance%20Plan.md)
+2)  [<span class="underline">Quality Assurance Surveillance Plan</span>](https://github.com/18F/tts-buy-development-desgin-research-bpa/blob/master/Quality%20Assurance%20Surveillance%20Plan.md)
 
-3)  > [<span class="underline">RFQ Submission Form - TTS Development
-    > Support
-    > Services</span>](https://docs.google.com/forms/d/1sGieayIyB6qr3iilCqm_zkCmv2J-ST7IyMDAasl5lEc/edit)
+3)  [<span class="underline">RFQ Submission Form - TTS Development Support
+    Services</span>](https://docs.google.com/forms/d/1sGieayIyB6qr3iilCqm_zkCmv2J-ST7IyMDAasl5lEc/edit)
 
-4)  > [<span class="underline">Pricing
-    > Template</span>](https://github.com/18F/tts-buy-development-desgin-research-bpa/blob/master/Attachment%20B%20-%20Price%20Sheet%20-%20TTS%20BPA%20for%20Dev%2C%20Design%2C%20and%20Research.xlsx)
+4)  [<span class="underline">Pricing Template</span>](https://github.com/18F/tts-buy-development-desgin-research-bpa/blob/master/Attachment%20B%20-%20Price%20Sheet%20-%20TTS%20BPA%20for%20Dev%2C%20Design%2C%20and%20Research.xlsx)
 
 # 2.0 Background
 
@@ -331,7 +327,7 @@ relevant experience identified in the Performance Work Statement (PWS)
 and quality control measures for overseeing performance. This part of
 the interview will not exceed 40 min.
 
-| **Agenda Item**                 | **Time Allotted ** |
+| **Agenda Item**                 | **Time Allotted** |
 | ------------------------------- | ------------------ |
 | Team Introductions              | 5 minutes          |
 | Interview                       | 40 minutes         |
@@ -470,7 +466,7 @@ electronically at this/these address(es):
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**BPA Terms and Conditions**
+# **BPA Terms and Conditions**
 
 # 1.0 General Information
 
@@ -541,10 +537,10 @@ information as a minimum:
 
 6)  Quantity, Unit Price, Labor Hours, Labor Categories, and Extension
     Price of Each Item or Labor Mix (unit prices and extensions need
-    not be shown when incompatible with the use of automated systems;
-    provided, that the invoice is itemized to show the information)
+    not be shown when incompatible with the use of automated systems
+    provided, that the invoice is itemized to show the information);
 
-7)  Delivery Time Frame
+7)  Delivery Time Frame;
 
 ## 2.6 Discounts
 
@@ -560,7 +556,7 @@ When ordering against the BPA, GSA TTS will:
     providing to as its most favoring pricing)
 
   - At the BPA annual review, request additional price reductions when
-    >estimated quantities/amounts under the BPA have been exceeded
+    estimated quantities/amounts under the BPA have been exceeded
     8.405-3(e)(1)(iii) or as needed.
 
 Discounting to the federal government does not invoke the Price
@@ -607,20 +603,20 @@ Contractor of liability for loss or damage to the property.
 This is a single-award BPA, established competitively against GSA
 Schedule 70. It is the responsibility of the Ordering Officer to:
 
-1)  > Comply with the ordering procedures of FAR 8.405-3(b) Obtain
-    > competition and/or execute brand name or limited source
-    > justifications as applicable;
+1)  Comply with the ordering procedures of FAR 8.405-3(b) Obtain
+    competition and/or execute brand name or limited source
+    justifications as applicable;
 
-2)  > Ensure compliance with all fiscal laws prior to issuing an order
-    > under this BPA;
+2)  Ensure compliance with all fiscal laws prior to issuing an order
+    under this BPA;
 
-3)  > Incorporate into the order any regulatory and statutory
-    > requirements that are applicable to the agency for which the order
-    > is placed, if pertinent requirements are not already included in
-    > this BPA; and
+3)  Incorporate into the order any regulatory and statutory
+    requirements that are applicable to the agency for which the order
+    is placed, if pertinent requirements are not already included in
+    this BPA; and
 
-4)  > Ensure the quoter selected for the order represents the best value
-    > and the lowest overall cost alternative.
+4)  Ensure the quoter selected for the order represents the best value
+    and the lowest overall cost alternative.
 
 ## 2.10 Suspension
 
@@ -733,12 +729,14 @@ and COR for each order, however, others may assume those roles.
 
 ## 8.3 Authorities and Delegations
 
-**8.3.1** The TTS Office of Acquisition (OA) is the only organization
+### 8.3.1
+The TTS Office of Acquisition (OA) is the only organization
 authorized to enter into or terminate this agreement, modify any term or
 condition of this agreement, waive any requirement of this agreement, or
 accept nonconforming work.
 
-**8.3.2** The Contracting Officer will designate a Contracting Officer's
+### 8.3.2 
+The Contracting Officer will designate a Contracting Officer's
 Representative (COR) at time of award. The COR will be responsible for
 technical monitoring of the contractor's performance and deliveries. The
 COR will be appointed in writing, and a copy of the appointment will be
@@ -746,7 +744,8 @@ furnished to the Contractor. Changes to this delegation will be made by
 written changes to the existing appointment or by issuance of a new
 appointment.
 
-**8.3.3** The COR is not authorized to perform, formally or informally,
+### 8.3.3
+The COR is not authorized to perform, formally or informally,
 any of the following actions:
 
 1)  Promise, award, agree to award, or execute any agreement,
@@ -777,16 +776,19 @@ any of the following actions:
     defined in paragraph 8.2.3. prior to receipt of the Contracting
     Officer’s response issued under paragraph 8.2.4 of this clause.
 
-**8.3.4** The Contracting Officer shall respond in writing within 30
+### 8.3.4
+The Contracting Officer shall respond in writing within 30
 days to any notice made under paragraph 8.2.3 of this clause. A failure
 of the parties to agree upon the nature of a direction, or upon the
 agreement action to be taken with respect thereto, shall be subject to
 the provisions of FAR 52.217-4(d) Disputes.
 
-**8.3.5** The Contractor shall provide copies of all correspondence to
+### 8.3.5
+The Contractor shall provide copies of all correspondence to
 the Contracting Officer and the COR.
 
-**8.3.6** Any action(s) taken by the Contractor, in response to any
+### 8.3.6
+Any action(s) taken by the Contractor, in response to any
 direction given by any person acting on behalf of the Government or any
 Government official other than the Contracting Officer or the COR acting
 within his or her appointment, shall be at the Contractor’s risk.
