@@ -187,7 +187,7 @@ The quoter should submit a minimum of one (1) to a maximum of five (5)
 source code examples (no more than five (5) examples will be considered)
 demonstrating relevant projects. Along with GitHub source code
 submissions, quoters may submit a three (3) page narrative discussing
-its project experience. Narratives must correspond with GitHub source
+its general project experience. Narratives must correspond with GitHub source
 code submissions. Each project example narrative shall be no more than
 three (3) standard pages (8 ½ X 11 with 1” margins and at least a 11pt
 Font); page count does not include GitHub submissions. Please provide a
@@ -214,7 +214,7 @@ user(s) with access to the private GitHub repository. The source code
 must have been developed by either the Offeror itself, a teaming partner
 that is proposed in response to this RFQ; or an employee or teaming
 partner of the quoter that is being proposed as Key Personnel for this
-project.
+BPA.
 
 “Relevant Project” means providing software development services similar
 to those described in the Performance Work Statement (PWS) and
@@ -255,7 +255,7 @@ Based on responses, quoters will be evaluated based on how confident the
 Government is in terms of the quoters experience in similar relevant
 projects to determine its ability to execute future call orders.
 
-#### Criteria 2 - Staffing Approach (Limit to 3 pages)
+#### Criteria 2 - Staffing Approach (Limited to 3 pages)
 
 Quoter’s staffing approach must address how they intend on quickly
 recruiting and maintaining a workforce to meet call orders based on
@@ -356,7 +356,7 @@ up the virtual meeting space accordingly (by providing dial in or
 links).
 
 *Date and Time.* TTS will schedule the date and time of the interviews
-with each quoter after the RFQ closing date and receipt of acceptable
+with each quoter after the RFQ closing date and receipt of “Some Confidence” or “High Confidence”
 quote submissions. TTS reserves the right to reschedule any quoter’s
 interview date at the discretion of the Contracting Officer.
 
@@ -426,7 +426,7 @@ or CTA schedule contract(s).**
 ## 3.3 Submissions Instructions
 
 **Questions:** All questions regarding this requirement shall be
-submitted via GitHub no later than 5:00PM Eastern Time on April 03,
+submitted via GitHub or to the contracting officer, Joseph Doresy, joseph.dorsey@gsa.gov  no later than 5:00PM Eastern Time on April 03,
 2019. TTS will provide answers to the questions as they come in.
 
 **Quote Instructions:** Quotes in response to the RFQ may be uploaded
@@ -570,7 +570,7 @@ Template</span>](https://github.com/18F/tts-buy-development-desgin-research-bpa/
 
 The government’s Good Faith Estimate for funded call orders over the
 life the BPA (if all options are exercised) is between $5,000,000 to
-$10,000,000. However, please note, this is not a ceiling and may be
+$10,000,000. However, please note, this is a estimate and may be
 raised without any justification at the discretion of the Contracting
 Officer. It shall also be noted that the government is not obligated to
 fund any orders if, for whatever reason, a need does not ultimately
