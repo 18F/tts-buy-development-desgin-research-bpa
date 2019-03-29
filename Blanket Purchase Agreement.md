@@ -5,7 +5,7 @@ Technology Transformation Services
 1800 F St NW | Washington, DC | 20405
 
 Request for Quotation to Establish a Blanket Purchase Agreement (BPA)
-{{Solicitation-Number}}
+{1357535}
 
 **From:** Joseph Dorsey, Contracting Officer, General Services
 Administration (GSA) Federal Acquisition Service (FAS), Technology
