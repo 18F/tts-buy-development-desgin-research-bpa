@@ -14,7 +14,7 @@ Transformation Services (TTS), Office of Acquisition (OA)
 (BPA)
 
 **Issue:** Date: March 28, 2019  
-**Response Date:** April 11, 2019 5:00 pm EST
+**Response Date:** April 22, 2019 5:00 pm EST
 
 **Set Aside:** Small Business Set-Aside
 
@@ -187,7 +187,7 @@ The quoter should submit a minimum of one (1) to a maximum of five (5)
 source code examples (no more than five (5) examples will be considered)
 demonstrating relevant projects. Along with GitHub source code
 submissions, quoters may submit a three (3) page narrative discussing
-its general project experience. Narratives must correspond with GitHub source
+its general relevant project experience. Narratives must correspond with GitHub source
 code submissions. Each project example narrative shall be no more than
 three (3) standard pages (8 ½ X 11 with 1” margins and at least a 11pt
 Font); page count does not include GitHub submissions. Please provide a
@@ -382,7 +382,8 @@ Quoters shall submit a price quote, utilizing the RFQ Pricing Sheet
 contained in \[[<span class="underline">Pricing
 Template</span>](https://docs.google.com/spreadsheets/d/1di6d-M34Dx79XXAsPZawYw-VwnXaIByHOQv_NyS9144/edit#gid=2048235537)\],
 for all work described in the RFQ, PWS and QASP. Missing or incomplete
-pricing data may result in the quote no longer being considered.
+pricing data may result in the quote no longer being considered. Pricing must be submitted with all Phase 1 information. 
+
 
 TTS will evaluate the price quote to determine that the total proposed
 price is realistic, reasonable, and fair. For award purposes, TTS will
@@ -411,13 +412,7 @@ pricing is current. TTS will verify the information from the quoter’s
 GSA schedule against the pricing form contained in Attachment B. TTS
 seeks additional discounts off quoter’s current GSA Schedule pricing.
 
-**Contractor Teaming Arrangements (CTA) are permitted. CTA partners must
-also have a GSA schedule. If the quoter intends to team, a CTA is
-required by the closing date and time of the RFQ. However, a fully
-executed CTA will be formalized at time of award. Awardees are
-responsible in ensuring their CTA partner fully understands the terms
-and conditions of the BPA and the reporting requirements required by the
-CTA partner. **
+**Contractor Teaming Arrangements (CTA) or teaming agreement with a prime GSA schedule holder are permitted. CTA partners must also have a GSA schedule. If the quoter intends to team, a CTA is required by the closing date and time of the RFQ. However, a fully executed CTA will be formalized at time of award. Awardees are responsible in ensuring their CTA partner fully understands the terms and conditions of the BPA and the reporting requirements required by the CTA partner.**
 
 **Note: Subsidiary, parent of affiliate companies performing work on
 this requirement terms and pricing must adhere to the prime contractor’s
@@ -426,7 +421,7 @@ or CTA schedule contract(s).**
 ## 3.3 Submissions Instructions
 
 **Questions:** All questions regarding this requirement shall be
-submitted via GitHub or to the contracting officer, Joseph Doresy, joseph.dorsey@gsa.gov  no later than 5:00PM Eastern Time on April 03,
+submitted via GitHub or to the contracting officer, Joseph Doresy, joseph.dorsey@gsa.gov  no later than 5:00PM Eastern Time on April 08,
 2019. TTS will provide answers to the questions as they come in.
 
 **Quote Instructions:** Quotes in response to the RFQ may be uploaded
@@ -434,7 +429,7 @@ into the [<span class="underline">RFQ Submission Form - 10x Development
 Support
 Services</span>](https://docs.google.com/forms/d/1sGieayIyB6qr3iilCqm_zkCmv2J-ST7IyMDAasl5lEc/edit).
 
-**Quote Due Date/Time:** All quotes are due by **April 11, 2019** at
+**Quote Due Date/Time:** All quotes are due by **April 22, 2019** at
 5:00PM EST. TTS will begin immediate review and evaluation of the
 submissions following the RFQ closing date and time. Therefore,
 submissions or information requests about this RFQ received after the
@@ -1095,6 +1090,22 @@ provider as defined in the SaaS’s FedRAMP A\&A authorization package.
 GSA’s Continuous Monitoring Strategy (CIO IT Security 12-66 Rev 2 -
 dated 10/10/2017) can be [<span class="underline">found at this
 link</span>](https://www.gsa.gov/about-us/organization/office-of-the-chief-information-officer/chief-information-security-officer-ciso/it-security-procedural-guides).
+
+## 10.9 Personnel Security Requirements
+Contractor shall furnish documentation reflecting favorable adjudication of background investigations for all personnel (including subcontractors) supporting the system. Contractors shall comply with GSA Order CIO 2100.1, “GSA Information Technology (IT) Security Policy,” and GSA Order CIO P 2181.1, “HSPD-12 Personal Identity Verification and Credentialing Handbook.” GSA separates the risk levels for personnel working on Federal computer systems into three categories: Low Risk, Moderate Risk, and High Risk.
+
+Those contract personnel (hereafter known as “Applicant”) determined to be in a Low Risk position will require a National Agency Check with Written Inquiries (NACI) investigation.
+Those Applicants determined to be in a Moderate Risk position will require either a Limited Background Investigation (LBI) or a Minimum Background Investigation (MBI) based on the Contracting Officer’s (CO) determination.
+Those Applicants determined to be in a High Risk position will require a Background Investigation (BI).
+
+Applicants will not be reinvestigated if a prior favorable adjudication is on file with FPS or GSA, there has been less than a one year break in service, and the position is identified at the same or lower risk level.
+
+Once a favorable FBI Criminal History Check (Fingerprint Check) has been returned, Applicants may receive a GSA identity credential (if required) and initial access to GSA information systems. The HSPD-12 Handbook contains procedures for obtaining identity credentials and access to GSA information systems as well as procedures to be followed in case of unfavorable adjudications.
+
+GSA shall sponsor the investigation when deemed necessary. No access shall be given to government computer information systems and government sensitive information without a background investigation being verified or in process. If results of background investigation are not acceptable, then access shall be terminated.
+
+The Contractor shall provide a report of separated staff on a monthly basis, beginning 60 days after execution of the option period.
+
 
 # 11.0 Clauses
 
