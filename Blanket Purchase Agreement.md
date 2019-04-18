@@ -165,7 +165,7 @@ development services similar to those described in the Performance Work
 Statement (PWS) by submitting source code samples and corresponding
 project descriptions for similar agile development projects. Quoters
 should submit at least one (1) relevant project(s). The quoter shall
-submit source code examples via GitHub.
+submit source code examples as described below.
 
 A more favorable evaluation will be provided to the extent of any of the
 following exist:
@@ -185,22 +185,24 @@ including Offeror’s prior customers and public websites**
 
 The quoter should submit a minimum of one (1) to a maximum of five (5)
 source code examples (no more than five (5) examples will be considered)
-demonstrating relevant projects. Along with GitHub source code
-submissions, quoters may submit a three (3) page narrative discussing
-its general relevant project experience. Narratives must correspond with GitHub source
-code submissions. Each project example narrative shall be no more than
-three (3) standard pages (8 ½ X 11 with 1” margins and at least a 11pt
-Font); page count does not include GitHub submissions. Please provide a
-point of contact (email address and telephone number) for each project
-submitted.
+demonstrating relevant projects. Along with version-controlled source code repository
+submissions, quoters must submit a three (3) page narrative for up to five 
+(5)corresponding projects(s) discussingits general relevant project experience (total of 
+up to 15 pages for all project narratives). Narratives must correspond with source 
+code submissions. Each project example narrative shall be no more than three (3) standard 
+pages (8 ½ X 11 with 1” margins and at least a 11pt Font); page count does not include 
+the repository. Please provide a point of contact (email address and telephone 
+number) for each project submitted.
+
+The source code must have been developed by either the Offeror itself, a teaming partner that is proposed in response to this RFQ; or an employee  or teaming partner of the quoter that is being proposed as this BPA.
 
 For Source Code submissions, at a minimum Quoters shall submit:
 
-1)  The references to one or more source code samples, which must be either links to Git repositories (either credentialed or public); or
+1)  The references to one or more source code samples, which must be either links to   web-based repositories (either credentialed or public); or
 
-2) Equivalent version-controlled repositories that provides TTS with the full revision history for all files.
+2) Equivalent version-controlled repositories that provides TTS with the full revision history for all files (for example, a zipped folder containing a Git-backed project, including the Git metadata).
 
-If the relevant projects to source code samples provided do not include
+If all of the source code samples provided do not include
 associated references to user research plans and design artifacts
 demonstrating how ongoing user research was incorporated into the
 project; then the Quoter must submit a user research plan and design
@@ -210,11 +212,7 @@ provided.
 Note: If a Quoter submits a link to a private Git repository, TTS will
 provide the Offeror with one or more GitHub user identities by email,
 and the Offeror will be expected to promptly provide the identified
-user(s) with access to the private GitHub repository. The source code
-must have been developed by either the Offeror itself, a teaming partner
-that is proposed in response to this RFQ; or an employee or teaming
-partner of the quoter that is being proposed as Key Personnel for this
-BPA.
+user(s) with access to the private GitHub repository. 
 
 “Relevant Project” means providing software development services similar
 to those described in the Performance Work Statement (PWS) and
@@ -251,6 +249,9 @@ functional experience areas:
 
   - Building and testing public facing sites and tools
 
+The government will review the submissions as a whole. As a result, the quoter may choose multiple projects to demonstrate separate functional experience areas, and should use the project narrative to highlight those areas.
+
+
 Based on responses, quoters will be evaluated based on how confident the
 Government is in terms of the quoters experience in similar relevant
 projects to determine its ability to execute future call orders.
@@ -265,9 +266,8 @@ policies, etc. in order to meet this criteria.
 
 <span class="underline">Submittal Requirements</span>
 
-Quoters must submit a three (3) page narrative. Each page shall be no
-more than three (3) standard pages (8 ½ X 11 with 1” margins and at
-least a 10pt Font), describing their approach and methods of staffing
+Quoters must submit a three (3) page narrative. Each page must be standard pages (8 ½ X 11 with 1” margins and at
+least a 11pt Font), describing their approach and methods of staffing
 this BPA (anything over 3 pages will not be considered).
 
 Based on responses, quoters will be evaluated based on how confident the
@@ -367,9 +367,7 @@ of participants included is at the quoter’s discretion and is the full
 responsibility of the quoter. All proposed personnel currently employed
 by the quoter or its teaming partners shall attend the session. TTS is
 most interested in hearing from staff that will have a direct role in
-performing on the task. The letter(s) of intent and resume(s) will
-suffice for proposed personnel currently not employed by the quoter, or
-its teaming partners or subcontractors. After the oral interview,
+performing on the task. After the oral interview,
 quoters shall provide an email to confirm attendance with names of
 participants to the meeting organizers to the Contracting Officer.
 
@@ -392,7 +390,7 @@ submit the following items for all services quoted:
 
   - Labor Categories
 
-  - Labor Hours
+  - Labor Hours ((Not required in initial submission, hours are included for example only in last tab of pricing sheet, this must be completed with submission)
 
   - GSA Schedule Hourly Rates
 
@@ -412,7 +410,7 @@ pricing is current. TTS will verify the information from the quoter’s
 GSA schedule against the pricing form contained in Attachment B. TTS
 seeks additional discounts off quoter’s current GSA Schedule pricing.
 
-**Contractor Teaming Arrangements (CTA) or teaming agreement with a prime GSA schedule holder are permitted. CTA partners must also have a GSA schedule. If the quoter intends to team, a CTA is required by the closing date and time of the RFQ. However, a fully executed CTA will be formalized at time of award. Awardees are responsible in ensuring their CTA partner fully understands the terms and conditions of the BPA and the reporting requirements required by the CTA partner.**
+**Contractor Teaming Arrangements (CTA) are permitted. CTA partners must also have a GSA schedule. If the quoter intends to team, a CTA is required by the closing date and time of the RFQ. However, a fully executed CTA will be formalized at time of award. Awardees are responsible in ensuring their CTA partner fully understands the terms and conditions of the BPA and the reporting requirements required by the CTA partner.**
 
 **Note: Subsidiary, parent of affiliate companies performing work on
 this requirement terms and pricing must adhere to the prime contractor’s
@@ -1067,9 +1065,6 @@ Information (GFI) and Government-provided data entered into any and all
 systems, system documentation, and other related system information
 shall reside with the Government.
 
-The contractor shall place the following copyright notice on all
-materials, documents, deliverables, etc. developed during performance of
-this contract.
 
 ## 10.6 Requirements for GSA Information Systems
 
